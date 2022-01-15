@@ -1,2 +1,2 @@
 # weight-converter
-converts weight from pounds to kilogram and vive versa
+converts weight from pounds to kilogram and vice versa
