@@ -1,5 +1,5 @@
 run = True
-user_weight = float(input('weight:'))
+user_weight = float(input('>weight:'))
 while run:
     selection = input('pounds(l) or kilos(k)? ')
 
